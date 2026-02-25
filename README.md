@@ -44,7 +44,7 @@ mini_chess_rl/
 └── README.md
 4. How to Run the Project
 Install
-git clone https://github.com/Negarin68/mini-chess-rl.git
+git clone https://github.com/negarinarianfar/mini-chess-rl.git
 cd mini-chess-rl
 
 python3 -m venv .venv
@@ -103,4 +103,4 @@ Portfolio demonstrations
 11. Contact
 For questions or collaboration:
 Negar Arianfar – 2025
-GitHub: https://github.com/Negarin68
+GitHub: https://github.com/negarinarianfar
